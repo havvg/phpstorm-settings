@@ -11,6 +11,7 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="Message" type="TypeScript" />
       <mapping ext="s" type="TypeScript" />
+      <mapping pattern="*.yml.dist" type="YAML" />
     </extensionMap>
   </component>
 </application>
