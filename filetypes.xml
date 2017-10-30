@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".php_cs.dist" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="migrate-database" type="PLAIN_TEXT" />
+      <mapping pattern="recreate" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="Message" type="TypeScript" />
+      <mapping ext="s" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
