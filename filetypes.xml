@@ -4,6 +4,7 @@
       <mapping pattern="composer.lock" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping ext="ctp" type="PHP" />
       <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping pattern="migrate-database" type="PLAIN_TEXT" />
       <mapping pattern="recreate" type="PLAIN_TEXT" />
