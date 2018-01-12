@@ -26,7 +26,6 @@
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
-    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_PUBLIC_MODIFIER" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
