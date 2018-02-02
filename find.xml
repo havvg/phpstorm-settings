@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Thengine'" />
-    <option name="defaultScopeName" value="Project 'Thengine'" />
-    <option name="SEARCH_SCOPE" value="Project 'Thengine'" />
+    <option name="customScope" value="Directory '.../src/Thengine/Domain [Thengine]'" />
+    <option name="defaultScopeName" value="Directory '.../src/Thengine/Domain [Thengine]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/Thengine/Domain [Thengine]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
