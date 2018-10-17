@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>219</Count>
+          <Count>223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -129,12 +129,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'app.php'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'app.php'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
     </option>
