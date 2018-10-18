@@ -30,7 +30,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>248</Count>
+          <Count>275</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -71,6 +71,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'CashbackTest.test_it_is_scheduled_at'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CashbackTest.test_it_is_scheduled_at'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DeleteOutdatedProfileImagesCommandHandlerTest.test_it_deletes_nothing_with_dry_run_option'">
