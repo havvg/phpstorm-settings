@@ -46,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>779</Count>
+          <Count>781</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -95,6 +95,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AddUserCommandHandlerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'AddUserCommandHandlerTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'CashbackTest.test_it_is_scheduled_at'">
