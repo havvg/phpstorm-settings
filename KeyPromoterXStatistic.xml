@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1121</Count>
+          <Count>1126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -183,6 +183,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Initialization.feature'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrderQueueEntryFactoryTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'OrderQueueEntryFactoryTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PayoutCashbackCommandHandlerTest'">
