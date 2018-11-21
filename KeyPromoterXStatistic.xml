@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1131</Count>
+          <Count>1134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -271,6 +271,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Cannot obtain a purc...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Import an order with...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Import an order with...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Document.feature'">
