@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ImportOrder.feature (Behat)'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'ImportOrder.feature (Behat)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Initialization.featu... (Behat)'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -318,6 +326,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PromotionVoucher.fea... (Behat)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PurchasableVoucher.f... (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'PurchasableVoucher.f... (Behat)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
