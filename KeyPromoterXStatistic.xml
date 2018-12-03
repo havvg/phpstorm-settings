@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1330</Count>
+          <Count>1331</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -199,6 +199,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'FileNormalizerTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ImportOrder.feature'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ImportOrder.feature'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Initialization.feature'">
@@ -326,7 +334,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ImportOrder.feature (Behat)'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'PromotionVoucher.fea... (Behat)'">
