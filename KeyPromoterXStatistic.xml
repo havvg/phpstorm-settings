@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1525</Count>
+          <Count>1536</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -321,6 +321,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ManageBlacklist.feature'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ManageBlacklist.feature'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'ObtainPromotionVoucherCommandHandlerTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -351,6 +359,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PayoutCashbackCommandHandlerTest.test_it_pays_out_due_cashback'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'PurchasableVoucher.feature'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'PurchasableVoucher.feature'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PushNotificationListenerTest'">
@@ -457,6 +473,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ManageBlacklist.feat... (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ManageBlacklist.feat... (Behat)'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PromotionVoucher.fea... (Behat)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -470,7 +494,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'PurchasableVoucher.f... (Behat)'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'TariffVoucher.featur... (Behat)'">
