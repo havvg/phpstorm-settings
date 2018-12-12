@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1542</Count>
+          <Count>1555</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -430,7 +430,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>134</Count>
+          <Count>197</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Article.feature (Behat)'">
@@ -614,7 +614,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'app.php'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -630,7 +630,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>160</Count>
+          <Count>173</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
