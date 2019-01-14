@@ -665,6 +665,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'WhoAmI.feature (Behat)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'WhoAmI.feature (Behat)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Activate.feature'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
