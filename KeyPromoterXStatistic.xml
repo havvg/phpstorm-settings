@@ -174,7 +174,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2262</Count>
+          <Count>2264</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -631,6 +631,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Cannot obtain a purc...'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Cannot retrieve mess...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Cannot retrieve mess...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Import an order with...'">
