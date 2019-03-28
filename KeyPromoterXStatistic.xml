@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2650</Count>
+          <Count>2669</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -441,6 +441,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'CreateContentTagCommandHandlerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'CreateContentTagCommandHandlerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'CreateDocumentCommandHandlerTest.test_it_throws_exception_on_handle_with_missing_file'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -647,6 +655,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'TransferInvitationAcceptedRewardCommandHandlerTest'</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'UpdateFaqCommandHandlerTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'UpdateFaqCommandHandlerTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'VoucherAvailablePushNotificationListenerTest'">
@@ -966,7 +982,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>288</Count>
+          <Count>291</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
