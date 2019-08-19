@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>6</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -543,6 +543,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'ManageBlacklist.feature'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MembershipTest.test_it_leaves_premium_status_within_termination_delay'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'MembershipTest.test_it_leaves_premium_status_within_termination_delay'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Model'">
