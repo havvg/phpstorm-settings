@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="VoucherUsage" type="JavaScript" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
-      <mapping ext="ctp" type="PHP" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="migrate-database" type="PLAIN_TEXT" />
       <mapping pattern="List" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
-      <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="recreate" type="PLAIN_TEXT" />
-      <mapping pattern="migrate-database" type="PLAIN_TEXT" />
+      <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="Message" type="TypeScript" />
