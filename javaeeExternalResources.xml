@@ -1,7 +1,0 @@
-<application>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://schema.org/Person" location="$USER_HOME$/Library/Caches/PhpStorm2017.1/extResources/1b5f379b_Person.html" />
-    <resource url="https://schema.org/Person" location="$USER_HOME$/Library/Caches/PhpStorm2018.1/extResources/aac5287e_Person.html" />
-    <resource url="https://www.w3.org/2001/XMLSchema-instance" location="$USER_HOME$/Library/Caches/PhpStorm2018.1/extResources/fbb23d63_XMLSchema-instance.xml" />
-  </component>
-</application>
