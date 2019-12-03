@@ -3,7 +3,7 @@
   <option name="RIGHT_MARGIN" value="1000" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   <option name="HTML_TEXT_WRAP" value="0" />
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
@@ -25,7 +25,7 @@
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_PUBLIC_MODIFIER" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
