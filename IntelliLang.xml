@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="php">
+      <display-name>&lt;&lt;&lt; JSON</display-name>
+      <place><![CDATA[phpLiteralExpression("JSON")]]></place>
+    </injection>
     <injection language="TypeScript" injector-id="xml">
       <display-name>test</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("test")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
