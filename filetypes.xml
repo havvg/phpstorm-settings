@@ -9,6 +9,7 @@
       <mapping pattern="install" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="recreate" type="PLAIN_TEXT" />
+      <mapping pattern="file_name" type="PLAIN_TEXT" />
       <mapping pattern="migrate-database" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
