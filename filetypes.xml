@@ -5,17 +5,19 @@
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="List" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="recreate" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern="file_name" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="migrate-database" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="refresh-database" type="Shell Script" />
       <mapping pattern="Message" type="TypeScript" />
       <mapping ext="s" type="TypeScript" />
       <mapping pattern="*.yml.dist" type="YAML" />
+      <removed_mapping pattern="refresh-database" approved="true" type="Smarty" />
     </extensionMap>
   </component>
 </application>
