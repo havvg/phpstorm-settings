@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../cake'" />
-    <option name="defaultScopeName" value="Directory '.../cake'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../cake'" />
+    <option name="customScope" value="Directory '.../cake/framework'" />
+    <option name="defaultScopeName" value="Directory '.../cake/framework'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../cake/framework'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
