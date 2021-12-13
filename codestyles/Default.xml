@@ -76,6 +76,9 @@
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
+    <indentOptions>
+      <option name="TAB_SIZE" value="8" />
+    </indentOptions>
     <arrangement>
       <rules>
         <section>
