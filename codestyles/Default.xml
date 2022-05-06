@@ -22,6 +22,7 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
+    <option name="ATTRIBUTES_WRAP" value="2" />
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
