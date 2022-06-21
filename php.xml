@@ -7,13 +7,17 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP Homebrew">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.5.reinstall/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.5.reinstall/bin/php" path_separator=":" version="8.1.5">
-          <additional_php_ini>/usr/local/etc/php/8.1/conf.d/ext-opcache.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.6/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.6/bin/php" path_separator=":" version="8.1.6">
+          <additional_php_ini>/usr/local/etc/php/8.1/conf.d/ext-opcache.ini, /usr/local/etc/php/8.1/conf.d/ext-xdebug.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.5/share/php/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.6/share/php/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.1.4">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -24,6 +28,8 @@
             <extension name="SPL" />
             <extension name="SimpleXML" />
             <extension name="Zend OPcache" />
+            <extension name="apcu" />
+            <extension name="ast" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -41,11 +47,13 @@
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="igbinary" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="memcached" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -60,6 +68,7 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -72,6 +81,7 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
