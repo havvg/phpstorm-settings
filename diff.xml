@@ -1,13 +1,6 @@
 <application>
-  <component name="DiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings />
-      </entry>
-    </option>
+  <component name="ExternalDiffSettings">
+    <option name="MIGRATE_OLD_SETTINGS" value="true" />
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
@@ -15,17 +8,6 @@
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Default">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings />
       </entry>
     </option>
   </component>
