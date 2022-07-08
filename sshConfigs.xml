@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="ormigo-webserver-2" id="dc20baf4-3158-4aae-a503-a32ec4c35c15" port="22" nameFormat="DESCRIPTIVE" username="ormigo" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="ormigo-webserver-5" id="dc20baf4-3158-4aae-a503-a32ec4c35c15" port="22" nameFormat="DESCRIPTIVE" username="ormigo" useOpenSSHConfig="true" />
       <sshConfig authType="OPEN_SSH" host="ormigo-webserver-4" id="03e1a7ad-dc28-4977-98b3-d8387d62a07a" port="22" nameFormat="DESCRIPTIVE" username="ormigo" useOpenSSHConfig="true" />
       <sshConfig authType="OPEN_SSH" host="5.35.243.165" id="b76c5016-be4f-4dac-82a9-ea790fc5afca" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
