@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/Development/Ormigo/repositories/lds-core/bin/refresh-database" />
+    <file url="file://$USER_HOME$/Development/Ormigo/repositories/ormigo/.buildpack/apache/conf/server.conf" />
   </component>
 </application>
